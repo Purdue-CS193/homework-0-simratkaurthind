@@ -1,27 +1,17 @@
-# Simi is taking over and testing something!
-## Welcome to GitHub Pages
+# Simi's First CS193 Homework!
+
+### What do I like about CS193 you ask?
+**Well I like:**
+- How easy and chill the class is
+- That we will be learning terminal
+- How we only have class once a week
+- That we have two weeks per Homework assignment
+- THAT THERE IS NO FINAL!!!
+- That I now know how to create a website in GitHub👍
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-I'm curious what this does
-```markdown
-and if this creates another block thingi
-```
-or if it just does normal things
-
-### I like:
-- dogs
-- cats
-- food
-- sleeping
-- reading
-- hiking
-- swimming
-
-**And i want this to be bold**
-_and this to be Italicized_
 
 ### Markdown
 
