@@ -1,8 +1,27 @@
+# Simi is taking over and testing something!
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+I'm curious what this does
+```markdown
+and if this creates another block thingi
+```
+or if it just does normal things
+
+### I like:
+- dogs
+- cats
+- food
+- sleeping
+- reading
+- hiking
+- swimming
+
+**And i want this to be bold**
+_and this to be Italicized_
 
 ### Markdown
 
@@ -11,7 +30,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Header 1 
 ## Header 2
 ### Header 3
 
